@@ -8,6 +8,6 @@ def countdown
   end
 end
 
-return "HAPPY NEW YEAR!"
+
 
 countdown
