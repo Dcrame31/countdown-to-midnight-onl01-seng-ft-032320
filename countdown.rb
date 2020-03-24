@@ -9,7 +9,7 @@ end
 
 
 
-countdown(10)
+#countdown(10)
 
 
 def countdown_with_sleep(number)
