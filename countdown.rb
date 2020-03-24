@@ -7,6 +7,9 @@ def countdown(number)
   end
 end
 
+countdown(10)
+return "HAPPY NEW YEAR!"
+
 
 
 #countdown(10)
