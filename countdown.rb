@@ -12,4 +12,4 @@ end
 
 
 
-countdown(10)
+countdown(0)
